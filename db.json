@@ -1,5 +1,5 @@
 {
-    "customers" : [{
+    "customers" : {
         "status": true,
         "message": "Sukses get data.",
         "data": {
@@ -38,5 +38,4 @@
             "total": 1
         }
     }
-    ]
 }
