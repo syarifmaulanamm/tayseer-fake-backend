@@ -1,0 +1,42 @@
+{
+    "customers" : [{
+        "status": true,
+        "message": "Sukses get data.",
+        "data": {
+            "data": [
+                {
+                    "id": "cHRkbmIrUjU0REIzYVdkalhBdjU4UT09",
+                    "register_id": 3,
+                    "name": "Didi Triawan",
+                    "email": "diditriawan13@gmail.com",
+                    "province": {
+                        "id": 11,
+                        "name": "DKI JAKARTA"
+                    },
+                    "city": {
+                        "id": 160,
+                        "name": "KOTA ADM. JAKARTA TIMUR"
+                    },
+                    "gender": "Male",
+                    "phone_number": "08979392113",
+                    "birth_date": "2001-01-01",
+                    "father_name": "Toyib",
+                    "address": "Jakarta",
+                    "passport_name": "MR. Didi Triawan",
+                    "passport_number": "B1933JKT",
+                    "passport_issued_date": "2023-01-01",
+                    "passport_expired_date": "2026-01-01",
+                    "ktp_number": "321315180298001",
+                    "marital_status": "Married"
+                }
+            ],
+            "current_page": 1,
+            "first_item": 1,
+            "last_item": 1,
+            "per_page": 10,
+            "last_page": 1,
+            "total": 1
+        }
+    }
+    ]
+}
